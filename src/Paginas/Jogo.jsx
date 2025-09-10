@@ -13,7 +13,7 @@ Durante sua jornada, Axel encontra aliados que fornecem upgrades e dicas, coleta
       <div className="w-[90%] sm:w-[45%] h-[90vh] bg-gray-800 text-white p-6 rounded-lg flex flex-col justify-between items-center">
         <div className="flex flex-col items-center mt-4">
           <h2 className="text-1xl font-mono uppercase tracking-wider mb-6 text-green-400">Versão Demo</h2>
-          <img src="/bionicarm.png" alt="BionicArm" className="w-64 h-64 mb-6 rounded-lg"/>
+          <img src="/bionicarm.png" alt="BionicArm" className="w-120 h-120 mb-6 rounded-lg"/>
         </div>
         <button className="bg-green-600 text-white font-mono uppercase py-4 rounded-lg text-xl hover:bg-green-700 transition w-4/5 mb-4 tracking-wider">START</button>
       </div>
